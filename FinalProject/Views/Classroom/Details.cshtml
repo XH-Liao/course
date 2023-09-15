@@ -1,0 +1,16 @@
+﻿@model FinalProject.Models.RoomClass
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1 style="color: #d2b12d;">Classroom Details</h1>
+
+<div>
+    <hr />
+    <div>@await Html.PartialAsync("Partial/RoomDetails",Model.classroom) </div>
+    <hr />
+    <h4 style="color: #d2b12d; ">Class</h4>
+    <div>@await Html.PartialAsync("Partial/RoomClass",Model.classes)</div>
+</div>
+

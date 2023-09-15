@@ -1,0 +1,368 @@
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\appsettings.json
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.exe
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.deps.json
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.runtimeconfig.json
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.runtimeconfig.dev.json
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.pdb
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.Views.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.Views.pdb
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.csproj.AssemblyReference.cache
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.AssemblyInfoInputs.cache
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.AssemblyInfo.cs
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.csproj.CoreCompileInputs.cache
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.MvcApplicationPartsAssemblyInfo.cache
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.RazorAssemblyInfo.cache
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.RazorAssemblyInfo.cs
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\staticwebassets\FinalProject.StaticWebAssets.Manifest.cache
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\staticwebassets\FinalProject.StaticWebAssets.xml
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\FinalProject.styles.css
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.TagHelpers.input.cache
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.TagHelpers.output.cache
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.RazorCoreGenerate.cache
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.RazorTargetAssemblyInfo.cache
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.RazorTargetAssemblyInfo.cs
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.Views.pdb
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.csproj.CopyComplete
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.dll
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.pdb
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.genruntimeconfig.cache
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Classroom\Details.cshtml.g.cs
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Details.cshtml.g.cs
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Classes\Create.cshtml.g.cs
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Classes\Delete.cshtml.g.cs
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Classes\Details.cshtml.g.cs
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Classes\Edit.cshtml.g.cs
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Classes\Index.cshtml.g.cs
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Classroom\Partial\RoomClass.cshtml.g.cs
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Partial\TeacherClass.cshtml.g.cs
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Classroom\Create.cshtml.g.cs
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Classroom\Delete.cshtml.g.cs
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Classroom\Edit.cshtml.g.cs
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Classroom\Index.cshtml.g.cs
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Classroom\Partial\RoomDetails.cshtml.g.cs
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Create.cshtml.g.cs
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Delete.cshtml.g.cs
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Edit.cshtml.g.cs
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Index.cshtml.g.cs
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Partial\TeacherDetails.cshtml.g.cs
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\workspace\C#\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Security\Register.cshtml.g.cs
+D:\workspace\C#\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Security\SignIn.cshtml.g.cs
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\appsettings.json
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.exe
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.deps.json
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.runtimeconfig.json
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.runtimeconfig.dev.json
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.pdb
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.Views.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.Views.pdb
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.csproj.AssemblyReference.cache
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.AssemblyInfoInputs.cache
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.AssemblyInfo.cs
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.csproj.CoreCompileInputs.cache
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.MvcApplicationPartsAssemblyInfo.cache
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.RazorAssemblyInfo.cache
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.RazorAssemblyInfo.cs
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\staticwebassets\FinalProject.StaticWebAssets.Manifest.cache
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.TagHelpers.input.cache
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.TagHelpers.output.cache
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.RazorCoreGenerate.cache
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Classes\Create.cshtml.g.cs
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Classes\Delete.cshtml.g.cs
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Classes\Details.cshtml.g.cs
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Classes\Edit.cshtml.g.cs
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Classes\Index.cshtml.g.cs
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Classroom\Create.cshtml.g.cs
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Classroom\Delete.cshtml.g.cs
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Classroom\Details.cshtml.g.cs
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Classroom\Edit.cshtml.g.cs
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Classroom\Index.cshtml.g.cs
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Classroom\Partial\RoomClass.cshtml.g.cs
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Classroom\Partial\RoomDetails.cshtml.g.cs
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Security\Register.cshtml.g.cs
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Security\SignIn.cshtml.g.cs
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Create.cshtml.g.cs
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Delete.cshtml.g.cs
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Details.cshtml.g.cs
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Edit.cshtml.g.cs
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Index.cshtml.g.cs
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Partial\TeacherClass.cshtml.g.cs
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Partial\TeacherDetails.cshtml.g.cs
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.RazorTargetAssemblyInfo.cache
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.RazorTargetAssemblyInfo.cs
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.Views.pdb
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.csproj.CopyComplete
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.dll
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.pdb
+D:\workspace\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.genruntimeconfig.cache
+D:\OneDrive - 國立高雄大學\workspace\Web\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.csproj.AssemblyReference.cache
+D:\OneDrive - 國立高雄大學\workspace\Web\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - 國立高雄大學\workspace\Web\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.AssemblyInfoInputs.cache
+D:\OneDrive - 國立高雄大學\workspace\Web\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.AssemblyInfo.cs
+D:\OneDrive - 國立高雄大學\workspace\Web\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.csproj.CoreCompileInputs.cache
+D:\OneDrive - 國立高雄大學\workspace\Web\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive - 國立高雄大學\workspace\Web\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.RazorAssemblyInfo.cache
+D:\OneDrive - 國立高雄大學\workspace\Web\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.RazorAssemblyInfo.cs
+D:\OneDrive - 國立高雄大學\workspace\Web\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\staticwebassets\FinalProject.StaticWebAssets.Manifest.cache
+D:\OneDrive - 國立高雄大學\workspace\Web\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.TagHelpers.input.cache
+D:\OneDrive - 國立高雄大學\workspace\Web\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.TagHelpers.output.cache
+D:\OneDrive - 國立高雄大學\workspace\Web\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.RazorCoreGenerate.cache
+D:\OneDrive - 國立高雄大學\workspace\Web\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.dll
+D:\OneDrive - 國立高雄大學\workspace\Web\ASP.NET MVC\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.pdb

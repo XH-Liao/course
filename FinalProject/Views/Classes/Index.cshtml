@@ -1,0 +1,65 @@
+﻿@model IEnumerable<FinalProject.Models.Classes>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 style="color: #669966;">Classes List</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table table-striped" style="width:100%;">
+    <thead style="background-color: #669966; color: #ebfaeb;">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model=>model.ClassName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model=>model.CourseCredit)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Teacher)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Room)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DayOfWeek)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Time)
+            </th>
+            <th>Functions</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem=>item.ClassName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem=>item.CourseCredit)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Teacher)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Room)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DayOfWeek)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Time)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

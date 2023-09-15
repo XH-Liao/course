@@ -1,0 +1,39 @@
+﻿@model FinalProject.Models.Classroom
+
+    <div class="row">
+        <div class="col-1"></div>
+        <div class="col-11">
+            <div>
+                <dl class="row">
+                    <dt class="col-4">
+                        @Html.DisplayNameFor(model => model.Name)
+                    </dt>
+                    <dd class="col-8">
+                        @Html.DisplayFor(model => model.Name)
+                    </dd>
+                    <dt class="col-4">
+                        @Html.DisplayNameFor(model => model.ToUse)
+                    </dt>
+                    <dd class="col-8">
+                        @Html.DisplayFor(model => model.ToUse)
+                    </dd>
+                    <dt class="col-4">
+                        @Html.DisplayNameFor(model => model.Seat)
+                    </dt>
+                    <dd class="col-8">
+                        @Html.DisplayFor(model => model.Seat)
+                    </dd>
+                    <dt class="col-4">
+                        @Html.DisplayNameFor(model => model.Note)
+                    </dt>
+                    <dd class="col-8">
+                        @Html.DisplayFor(model => model.Note)
+                    </dd>
+                </dl>
+            </div>
+            <div style="text-align:right;">
+                <a asp-action="Edit" asp-route-id="@Model.ID">Edit</a> |
+                <a asp-action="Index">Back to List</a>
+            </div>
+        </div>
+    </div>

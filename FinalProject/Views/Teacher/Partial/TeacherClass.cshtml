@@ -1,0 +1,54 @@
+﻿@model IEnumerable<FinalProject.Models.Classes>
+
+<table class="table table-striped">
+    <thead style="background-color: #d6995c; color: white; ">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ClassName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CourseCredit)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Teacher)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Room)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DayOfWeek)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Time)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ClassName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CourseCredit)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Teacher)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Room)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DayOfWeek)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Time)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<div style="text-align:center;font-size:larger"><span >@ViewBag.NoClass</span></div>
+<div style="text-align:right;">
+    <a asp-controller="Classes" asp-action="Index">Go To Class Index</a>
+</div>

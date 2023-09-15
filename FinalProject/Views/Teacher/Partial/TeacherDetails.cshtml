@@ -1,0 +1,45 @@
+﻿@model FinalProject.Models.Teacher
+
+    <div class="row">
+        <div class="col-1"></div>
+        <div class="col-11">
+            <div>
+                <dl class="row">
+                    <dt class="col-4">
+                        @Html.DisplayNameFor(model => model.Name)
+                    </dt>
+                    <dd class="col-8">
+                        @Html.DisplayFor(model => model.Name)
+                    </dd>
+                    <dt class="col-4">
+                        @Html.DisplayNameFor(model => model.Office)
+                    </dt>
+                    <dd class="col-8">
+                        @Html.DisplayFor(model => model.Office)
+                    </dd>
+                    <dt class="col-4">
+                        @Html.DisplayNameFor(model => model.Phone)
+                    </dt>
+                    <dd class="col-8">
+                        @Html.DisplayFor(model => model.Phone)
+                    </dd>
+                    <dt class="col-4">
+                        @Html.DisplayNameFor(model => model.Email)
+                    </dt>
+                    <dd class="col-8">
+                        @Html.DisplayFor(model => model.Email)
+                    </dd>
+                    <dt class="col-4">
+                        @Html.DisplayNameFor(model => model.Note)
+                    </dt>
+                    <dd class="col-8">
+                        @Html.DisplayFor(model => model.Note)
+                    </dd>
+                </dl>
+                <div style="text-align:right;">
+                    <a asp-action="Edit" asp-route-id="@Model.ID">Edit</a> |
+                    <a asp-action="Index">Back to List</a>
+                </div>
+            </div>
+        </div>
+    </div>

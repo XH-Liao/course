@@ -1,0 +1,66 @@
+﻿@model FinalProject.Models.Classes
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-8">
+        <h1 style="color: #669966;">Class Details</h1>
+        <hr />
+        <div class="row">
+            <div class="col-1"></div>
+            <div class="col-11">
+                <dl class="row">
+                    <dt class="col-4">
+                        @Html.DisplayNameFor(model => model.ClassName)
+                    </dt>
+                    <dd class="col-8">
+                        @Html.DisplayFor(model => model.ClassName)
+                    </dd>
+                    <dt class="col-4">
+                        @Html.DisplayNameFor(model => model.CourseCredit)
+                    </dt>
+                    <dd class="col-8">
+                        @Html.DisplayFor(model => model.CourseCredit)
+                    </dd>
+                    <dt class="col-4">
+                        @Html.DisplayNameFor(model => model.Teacher)
+                    </dt>
+                    <dd class="col-8">
+                        @Html.DisplayFor(model => model.Teacher)
+                    </dd>
+                    <dt class="col-4">
+                        @Html.DisplayNameFor(model => model.Room)
+                    </dt>
+                    <dd class="col-8">
+                        @Html.DisplayFor(model => model.Room)
+                    </dd>
+                    <dt class="col-4">
+                        @Html.DisplayNameFor(model => model.DayOfWeek)
+                    </dt>
+                    <dd class="col-8">
+                        @Html.DisplayFor(model => model.DayOfWeek)
+                    </dd>
+                    <dt class="col-4">
+                        @Html.DisplayNameFor(model => model.Time)
+                    </dt>
+                    <dd class="col-8">
+                        @Html.DisplayFor(model => model.Time)
+                    </dd>
+                    <dt class="col-4">
+                        @Html.DisplayNameFor(model => model.Note)
+                    </dt>
+                    <dd class="col-8">
+                        @Html.DisplayFor(model => model.Note)
+                    </dd>
+                </dl>
+            </div>
+        </div>
+        <div style="text-align:right;">
+            <a asp-action="Edit" asp-route-id="@Model.ID">Edit</a> |
+            <a asp-action="Index">Back to List</a>
+        </div>
+    </div>
+</div>

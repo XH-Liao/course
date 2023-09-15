@@ -1,0 +1,54 @@
+﻿@model FinalProject.Models.Teacher
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-8">
+        <h1 style="color: #d6995c;">Edit Teacher</h1>
+        <hr />
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="ID" />
+            <table class="table">
+                <tr class="form-group">
+                    <td class="col-2"><label asp-for="Name" class="control-label"></label></td>
+                    <td class="col-6"><input asp-for="Name" class="form-control" /></td>
+                    <td class="col-4"><span asp-validation-for="Name" class="text-danger"></span></td>
+                </tr>
+                <tr class="form-group">
+                    <td><label asp-for="Office" class="control-label"></label></td>
+                    <td><input asp-for="Office" class="form-control" /></td>
+                    <td><span asp-validation-for="Office" class="text-danger"></span></td>
+                </tr>
+                <tr class="form-group">
+                    <td><label asp-for="Phone" class="control-label"></label></td>
+                    <td><input asp-for="Phone" class="form-control" /></td>
+                    <td><span asp-validation-for="Phone" class="text-danger"></span></td>
+                </tr>
+                <tr class="form-group">
+                    <td><label asp-for="Email" class="control-label"></label></td>
+                    <td><input asp-for="Email" class="form-control" /></td>
+                    <td><span asp-validation-for="Email" class="text-danger"></span></td>
+                </tr>
+                <tr class="form-group">
+                    <td><label asp-for="Note" class="control-label"></label></td>
+                    <td><input asp-for="Note" class="form-control" /></td>
+                    <td><span asp-validation-for="Note" class="text-danger"></span></td>
+                </tr>
+                <tr class="form-group">
+                    <td></td>
+                    <td style="text-align:center;">
+                        <input type="submit" value="Save" class="btn btn-primary" style="background-color: #d6995c; border-color: #d6995c; " />
+                    </td>
+                    <td><span class="text-danger">@ViewBag.Created</span></td>
+                </tr>
+            </table>
+        </form>
+        <div style="text-align:right;"><a asp-action="Index">Back to List</a></div>
+    </div>
+</div>
+
+

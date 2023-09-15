@@ -1,0 +1,84 @@
+﻿@model FinalProject.Models.Classes
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-8">
+        <h1 style="color: #669966;">Create Class</h1>
+
+        <hr />
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <table class="table">
+                <tr>
+                    <td class="col-2"><label asp-for="ClassName" class="control-label"></label></td>
+                    <td class="col-6"><input type="text" asp-for="ClassName" class="form-control" /></td>
+                    <td class="col-4"><span asp-validation-for="ClassName" class="text-danger"></span></td>
+                </tr>
+                <tr>
+                    <td><label asp-for="CourseCredit" class="control-label"></label></td>
+                    <td><input type="text" asp-for="CourseCredit" class="form-control" /></td>
+                    <td><span asp-validation-for="CourseCredit" class="text-danger"></span></td>
+                </tr>
+                <tr>
+                    <td><label asp-for="Teacher" class="control-label"></label></td>
+                    <td>
+                        <select asp-for="Teacher" asp-items="@ViewBag.Teacher" class="form-control">
+                            <option value="">Please select</option>
+                        </select>
+                    </td>
+                    <td><span asp-validation-for="Teacher" class="text-danger"></span></td>
+                </tr>
+                <tr>
+                    <td><label asp-for="Room" class="control-label"></label></td>
+                    <td>
+                        <select asp-for="Room" asp-items="@ViewBag.Classroom" class="form-control">
+                            <option value="">Please select</option>
+                        </select>
+                    </td>
+                    <td><span asp-validation-for="Room" class="text-danger"></span></td>
+                </tr>
+                <tr>
+                    <td><label asp-for="DayOfWeek" class="control-label"></label></td>
+                    <td>
+                        <select asp-for="DayOfWeek" asp-items="@ViewBag.DayOfWeek" class="form-control">
+                            <option value="">Please select</option>
+                        </select>
+                    </td>
+                    <td><span asp-validation-for="DayOfWeek" class="text-danger"></span></td>
+                </tr>
+                <tr>
+                    <td><label asp-for="Time" class="control-label"></label></td>
+                    <td>
+                        <select asp-for="Time" asp-items="@ViewBag.Time" class="form-control">
+                            <option value="">Please select</option>
+                        </select>
+                    </td>
+                    <td><span asp-validation-for="Time" class="text-danger"></span></td>
+                </tr>
+                <tr>
+                    <td><label asp-for="Note" class="control-label"></label></td>
+                    <td><textarea rows="5" cols="40" asp-for="Note" class="form-control"></textarea></td>
+                    <td><span asp-validation-for="Note" class="text-danger"></span></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td style="text-align:center;">
+                        <input type="submit" value="Create" class="btn btn-primary" style="background-color: #669966; border-color: #669966;" />
+                    </td>
+                    <td><span class="text-danger">@ViewBag.ErrorMessage</span></td>
+                </tr>
+            </table>
+        </form>
+        <div style="text-align:right;">
+            <a asp-action="Index">Back to List</a>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
