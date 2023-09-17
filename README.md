@@ -1,6 +1,8 @@
 # course
 排課系統
 
+![排課](https://github.com/XH-Liao/course/assets/100434449/c57a8291-d65c-4621-9961-099af405087c)
+
 簡介-身分與功能
 1. 訪客
     - 瀏覽首頁
